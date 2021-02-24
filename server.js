@@ -69,7 +69,7 @@ app.get("/api/notes/:id/delete", function (req, res) {
   res.redirect("/notes").send(notes);
 });
 
-app.route(["/", "/index", "/index.html", "*"]).get(showIndex);
+app.route(["/", "/index", "/index.html"]).get(showIndex);
 app.route(["/notes", "/notes.html"]).get(getAllNotes);
 
 const PORT = process.env.PORT || 3000;
