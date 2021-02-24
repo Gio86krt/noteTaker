@@ -53,4 +53,4 @@ For questions and collaborations contact me at: [lugk4l@gmail.com](mailto:lugk4l
 Or check my [GitHub](https://github.com/Gio86krt)
 
 [Page-Link](https://gio86krt.github.io/noteTaker/)
-[Heroku-Link](https://gio86krt.github.io/noteTaker/)
+[Heroku-Link](https://notetakerapp01.herokuapp.com/)
